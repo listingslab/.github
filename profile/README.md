@@ -1,40 +1,30 @@
-> Multiple Gatsby static front ends which are cheap to host can all use the same, scalable, strapi instance
+Open Source Goldlabel Gatsby/Strapi stack deploying to render.com by Listingslab
 
-是的，兄弟🤙
-太完美了👌
-看看这里👉
-那是老学校🤟
+## Gatsby Template
 
+> 👉 Public, Open Source Gatsby Template for Listingslab Goldlabel
+
+Release 5.0.2 用于 Listingslab Goldlabel 的公共开源 Gatsby 模板
+
+
+#### Install & Use
+
+```bash
+cd <working-dir>
+git clone https://github.com/listingslab-goldlabel/gatsby-template
+cd gatsby-template
+npm install
+npm run develop
+```
+#### Localisation
+
+Might as well be in Chinese, right?
+
+👉 美人鱼 🧜  
+🧜 美人鱼   
+👼 天使  
+是的，🤙 兄弟  
+👌 太完美了  
+👉 看看这里  
+那🤟是🤟老🤟学🤟校🤟  
 🦹‍♀️ 超级反派女人
-👼 天使
-
-🎅  santa 
-🤶  mrs_claus 
-🧑‍🎄  mx_claus 
-🦸  superhero 
-🦸‍♂️  superhero_man 
-🦸‍♀️  superhero_woman 
-🦹  supervillain 
-🦹‍♂️  supervillain_man 
-🦹‍♀️  supervillain_woman 
-🧙  mage 
-🧙‍♂️  mage_man 
-🧙‍♀️  mage_woman 
-🧚  fairy 
-🧚‍♂️  fairy_man 
-🧚‍♀️  fairy_woman 
-🧛  vampire 
-🧛‍♂️  vampire_man 
-🧛‍♀️  vampire_woman 
-🧜  merperson 
-🧜‍♂️  merman 
-🧜‍♀️  mermaid 
-🧝  elf 
-🧝‍♂️  elf_man 
-🧝‍♀️  elf_woman 
-🧞  genie 
-🧞‍♂️  genie_man
-🧞‍♀️  genie_woman 
-🧟  zombie
-🧟‍♂️  zombie_man
-🧟‍♀️  zombie_woman
